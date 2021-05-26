@@ -1,7 +1,7 @@
 import React from 'react';
 import Head from 'next/head'
 
-const Header = () => {
+const AppHead = () => {
   return (
     <Head>
       <title>Create Next App</title>
@@ -11,4 +11,4 @@ const Header = () => {
   )
 }
 
-export default Header;
+export default AppHead;
