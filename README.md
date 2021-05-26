@@ -1,0 +1,1 @@
+# static-generation-using-nextjs
